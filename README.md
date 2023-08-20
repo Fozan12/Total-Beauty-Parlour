@@ -1,2 +1,2 @@
-# Total-Beauty-Parlour.
+# Total-Beauty-Parlour
 Total beauty parlour

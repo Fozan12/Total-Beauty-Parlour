@@ -1,0 +1,180 @@
+#copyButton{
+  width: 7vw;
+  height: 5vw;
+  display: inline-block;
+   padding: 10px 20px;
+     text-decoration: none;
+     border: 2px solid #333;
+     border-radius: 4px;
+   background-color: brown;
+   color: ivory;
+ position: center;  
+ margin: 0px;
+ border-radius: 5px;    
+}
+ #textToCopy{
+  font-size: 3vw;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+ margin: 0px;
+ text-align: center;
+ }
+ .alltext{
+  color: black; 
+   background-color:rgb(232, 209, 250) ;
+ text-align: center;
+ }
+ #textToCopy:hover{
+   color: rgb(0, 136, 255);
+  }
+ #copyButton:hover{
+ background-color: rgb(255, 255, 255);  
+ color: cornflowerblue;
+ }
+.copy{
+ padding: 0px;
+  margin: 0px;
+  font-size: 13px;
+    width: 29vw;
+   height: 14vw;
+    text-align: center;
+    border: 13px dashed green;
+    background-color: rgb(240, 255, 212);
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.font{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 34px;
+color: rgba(85, 92, 232, 0.666);
+}
+#aftermenu{
+  position:right ;
+  font-size: 46px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgba(189, 134, 25, 0.644);
+}
+@media screen and (max-width:600px)
+{
+#font1{
+    font-size: 36px;
+    line-height: 50px;
+ font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+}
+.container{
+  height: 1270px;
+  width: 1560px;
+  border: 5px solid rgb(247, 7, 255);
+position: center;
+background-image: url(af7c9520cda0b44230fe147ea7de728e.jpg); background-repeat:repeat;
+}
+header{
+  background-color: palevioletred;
+padding: 23px;
+font-size: 0.7cm;
+font-family:'Times New Roman', Times, serif;
+border: 4px solid black;
+}
+header:hover{
+ 
+}
+footer{
+  background-color: rgba(221, 51, 107, 0.639);
+padding: 23px;
+font-size: 24px;
+font-family:'Times New Roman', Times, serif;
+color: rgb(0, 0, 0);
+border: 4px solid black;
+}
+#boder{
+  border: 3px solid rgb(141, 33, 255);
+background-color: black;
+color: rgb(255, 255, 255);
+padding: 0px;
+margin: 0px;
+margin: 0px;
+}
+.information {
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  height: 2vh; 
+}
+
+.center-button {
+    display: inline-block;
+padding: 10px 20px;
+  text-decoration: none;
+  border: 2px solid #333;
+  border-radius: 4px;
+background-color: brown;
+color: ivory;
+}
+a:hover{
+  background-color: aliceblue;
+  color: #000000;
+}
+.contact{
+padding: px;
+  color: rgb(255, 255, 255);
+}
+ .contact2{
+  background-image: url(2.0.jpg); background-repeat:repeat;
+  font-family:'Times New Roman', Times, serif ;
+  text-align: center;
+font-size: 3vw; 
+color: rgba(38, 102, 8, 0.782);
+}
+.contact2 :hover{
+  color: rgba(124, 134, 245, 0.733);
+font-size: 6vw;
+margin: 0ch;
+padding: 0ch;
+}
+ head{
+  background-color: burlywood;
+ }
+     .three{
+  border: 22px solid rgba(0, 217, 241, 0.781);
+  position: absolute;
+  bottom: -270%;
+  left: 5%;
+ }
+ .one{
+  border: 22px solid rgba(0, 217, 241, 0.781);
+  position: absolute;
+  left: 5%;
+ }
+ .two{
+  border: 22px solid rgba(0, 217, 241, 0.781);
+  position: absolute;
+  left: 60%;
+ }
+ .four{
+  border: 22px solid rgba(0, 217, 241, 0.781);
+  position: absolute;
+  left: 60%;
+  bottom: -270%;
+ }
+ .b1{
+  border: 5px solid yellow;
+  color: aqua;
+  background-color: #000000;
+  width: 20em;
+  height: 6em;
+ }
+ .b1:hover{
+  background-color: rgb(0, 136, 255);
+  color: rgb(255, 10, 247);
+  border: 9px dashed red;
+  grid-auto-rows:58em ;
+  cursor:grab;
+ }
+ .W{
+  color: red;
+background-color: oringe;
+   border: 2px dashed red;
+ }

@@ -122,25 +122,25 @@ padding: px;
   color: rgb(255, 255, 255);
 }
  .contact2{
-  background-image: url(2.0.jpg); background-repeat:repeat;
+  background-image: url(lipstick-2722847_1280.jpg);background-repeat: no-repeat;
   font-family:'Times New Roman', Times, serif ;
   text-align: center;
 font-size: 3vw; 
-color: rgba(38, 102, 8, 0.782);
+color: rgba(255, 0, 247, 0.782);
 }
 .contact2 :hover{
-  color: rgba(124, 134, 245, 0.733);
-font-size: 6vw;
+  color: rgba(25, 0, 255, 0.733);
+  font-size: 4vw; 
 margin: 0ch;
 padding: 0ch;
 }
  head{
   background-color: burlywood;
  }
-     .three{
+.three{
   border: 22px solid rgba(0, 217, 241, 0.781);
   position: absolute;
-  bottom: -270%;
+  bottom: -303%;
   left: 5%;
  }
  .one{
@@ -157,7 +157,7 @@ padding: 0ch;
   border: 22px solid rgba(0, 217, 241, 0.781);
   position: absolute;
   left: 60%;
-  bottom: -270%;
+  bottom: -303%;
  }
  .b1{
   border: 5px solid yellow;
